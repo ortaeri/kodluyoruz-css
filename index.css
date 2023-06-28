@@ -1,0 +1,149 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+   position: absolute;
+   left: 715px;
+
+}
+
+#bir {
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    
+    
+}
+
+#iki {
+    position: absolute;
+    left: 779px;
+    top: 100px;
+}
+
+#uc {
+    position: absolute;
+    left: 1000px;
+    top: 100px ;
+
+}
+
+#ana {
+    position: absolute;
+    left: 790px;
+    top: 200px;
+}
+
+#p {
+    position: absolute;
+    top: 30%;
+    transform: translate(0, -50%);
+    padding: 120px;
+    font-size: 110%;
+}
+
+#site {
+    position: absolute;
+    left: 730px;
+    top: 330px;
+    color: yellowgreen;
+    font-size: 130%;
+}
+
+#firstlist {
+    position: absolute;
+    left: 750px;
+    top: 400px;
+    font-size: 120%;
+    list-style-position: inside
+    
+}
+
+#ferrari {
+    position: absolute;
+    left: 770px;
+    top: 160px;
+
+}
+
+#p2 {
+    position: absolute;
+    left: 690px;
+    top: 375px;
+    font-size: 120%;
+}
+
+#redbull {
+    position: absolute;
+    left: 770px;
+    top: 450px;
+
+}
+
+#mesrubat {
+    position: absolute;
+    left: 690px;
+    top: 660px;
+    font-size: 120%;
+}
+
+#fav {
+    position: absolute;
+    left: 770px;
+    top: 730px;
+}
+
+#favori {
+    position: absolute;
+    left: 690px;
+    top: 930px;
+    font-size: 120%;
+
+}
+
+#kirmizi {
+    position: absolute;
+    left: 770px;
+    top: 1050px;
+}
+
+#kirmizi2 {
+    position: absolute;
+    left: 690px;
+    top: 1250px;
+    font-size: 120%;
+
+}
+
+#hk {
+    position: absolute;
+    top: 180px;
+}
+
+#vizyon {
+    position: absolute;
+    top: 250px;
+    color: blue;
+}
+
+#lorem {
+    position: absolute;
+    top: 300px;
+    font-size: 120%;
+}
+
+#misyon {
+    position: absolute;
+    top: 450px;
+    color: blue;
+
+}
+
+#lorem2 {
+    position: absolute;
+    top: 500px;
+    font-size: 120%;
+
+}
